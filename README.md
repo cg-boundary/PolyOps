@@ -1,10 +1,6 @@
 **Introducing, PolyOps.**
 There are many tools to explore but check below for a few samples and everything else you need can be found from following the links at the bottom.
 
-And **yes** this addon is **free**, however if you enjoy the product or any other content I release please consider getting an appreciation token from my GumRoad page (Link at the bottom).
-
-[![Watch the video](https://img.youtube.com/vi/VCJxMvnzajM/maxresdefault.jpg)](https://youtu.be/VCJxMvnzajM)
-
 *Slice & Knife* <br />
 Cut mesh geometry with a simple 2-Point line.
 ![alt text](https://github.com/cg-boundary/PolyOps/blob/main/docs/ScreenShot_1.jpeg)
